@@ -1,7 +1,7 @@
 ---
 title: "Short Lab 4"
-author: "INSERT YOUR NAME HERE"
-date: "Due Date Here"
+author: "Kai Jeffreys"
+date: "2/28/22"
 output: html_document
 ---
 
@@ -28,7 +28,7 @@ output: html_document
 
 Please type only the link to your repository using the template below. Fill in both the square brackets `[]` and the parentheses `()` with your link.
 
-[YOUR LINK HERE](YOUR LINK HERE)
+[https://github.com/kaijeffreys/short_lab4.git](https://github.com/kaijeffreys/short_lab4.git)
 
 Here's a checklist of what we should see at the link above:
 
